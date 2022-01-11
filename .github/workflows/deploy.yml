@@ -1,9 +1,9 @@
 name: React Deploy
 
 on: 
-  push:                               
+  push:                              
     branches:
-      - main
+      - master
 
 jobs:
   build:
