@@ -59,10 +59,7 @@ resources:
           Statement:
             - Sid: PublicReadGetObject
               Effect: Allow
-              Principal:
-                CanonicalUser:
-                  Fn::GetAtt:
-                    "*"
+              Principal: "*"
               Action:
                 - s3:GetObject
               Resource:
