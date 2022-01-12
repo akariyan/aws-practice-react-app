@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Serverless
+          Learn AWS and Serverless
         </a>
       </header>
     </div>

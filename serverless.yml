@@ -1,5 +1,5 @@
 # https://sls.zone/pages/run/hosting-for-a-serverless-project-on-s3/
-service: frontend
+service: react-practice
 
 provider:
   name: aws
